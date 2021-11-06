@@ -52,7 +52,7 @@ Navigate to your repository folder in the terminal and run `npm install` to inst
 
 Use `node server.js` in the command line to start the application.
 
-![screencap of landing page](./Assets/screenshot.jpg)
+![screencap of landing page](./assets/screenshot.jpg)
 
 
 
