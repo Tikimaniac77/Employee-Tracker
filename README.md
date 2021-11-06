@@ -15,6 +15,8 @@
 
 ## Description
 
+[Click the link to see the video demonstration](https://watch.screencastify.com/v/SXsoGdkTd9M5XeQ8H076)
+
 This application should meet the following criteria:
 
 ```md
